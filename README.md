@@ -24,7 +24,8 @@ I'm a passionate tech enthusiast and lifelong learner from Namakkal, Tamil Nadu,
 - 🎉 **World Guinness Record Event - AI for India** by GUVI Geek Networks 🇮🇳
 - 🌐 **AI for India 2.0** by GUVI Geek Networks 🇮🇳
 - 💻 **Introduction to Programming Using Python** by GUVI Geek Networks & DataCamp
-
+### Projects & certificates :
+https://drive.google.com/drive/folders/1y1j5w2qTg0MsthFuv5nD0C86-EU8y9Od
 ### 🎙️ Podcast - The Logical You
 Embark on a journey of self-discovery and enlightenment! Tune into my podcast where we explore logical truths, psychological insights, and inspiring stories 
 👉 [Listen on Spotify](https://open.spotify.com/show/5cINU10dvHWp6XHvxF3I31)
